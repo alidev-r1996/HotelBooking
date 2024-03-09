@@ -1,0 +1,70 @@
+@import url("https://unpkg.com/leaflet@1.9.4/dist/leaflet.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .hoverEffect:hover a:not(:hover) {
+    filter: blur(1px);
+  }
+  .hoverEffect:hover a:hover {
+    filter: blur(0px);
+  }
+}
+
+@layer utilities {
+  .BookmarkInput {
+    @apply outline-none text-xs capitalize py-3 focus:border-blue-500  transition-all duration-300 border border-blue-500  placeholder-shown:border-gray-300 rounded shadow p-2 w-full text-blue-600;
+  }
+  .BookmarkLabel {
+    @apply absolute peer-focus:-top-3 capitalize peer-placeholder-shown:hidden peer-focus:font-[600]  font-[600]  -top-3 bg-white p-1  left-2 text-xs transition-all duration-300  text-blue-600 peer-focus:text-blue-600;
+  }
+
+  .shadow_btn {
+    border-radius: 9999px;
+    padding: 0.75rem 3rem;
+    margin-top: 1.5rem;
+    font-weight: bold;
+    transition: all 1s;
+    background: #e11d48;
+    box-shadow: 3px 3px 10px #ad1637, -3px -3px 10px #ff2459;
+  }
+
+  .shadow_btn:hover {
+    background: #e11d48;
+    box-shadow: inset 3px 3px 10px #ad1637, inset -4px -4px 10px #ff2459;
+  }
+
+  .logo-shadow {
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background: linear-gradient(145deg, #ffffff, #e6e6e6);
+    box-shadow: 5px 5px 10px #c9c9c9, -5px -5px 10px #ffffff;
+    transition: all 0.2s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin: 12px auto;
+  }
+
+  .logo-shadow:hover {
+    color: blue;
+    transform: scale(1.1);
+    box-shadow: inset 1px 1px 4px rgba(0, 0, 0, 0.3),
+      inset -2px -2px 7px #ffffff;
+  }
+  .logo-shadow:hover:nth-child(1) {
+    color: blue;
+  }
+  .logo-shadow:hover:nth-child(2) {
+    color: red;
+  }
+  .logo-shadow:hover:nth-child(3) {
+    color: dodgerblue;
+  }
+
+  
+}
