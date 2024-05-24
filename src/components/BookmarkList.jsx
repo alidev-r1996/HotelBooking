@@ -11,7 +11,7 @@ const BookmarkList = () => {
 
   const removeBookmarkHandler = async (event, id)=>{
     event.preventDefault();
-    dispatch({type: "DELETE_BOOKMARK", payload: id})
+    await dispatch({type: "DELETE_BOOKMARK", payload: id})
   }
   
   

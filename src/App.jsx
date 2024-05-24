@@ -23,7 +23,7 @@ function App() {
             show ? "md:ml-48 ml-[80%]" : "ml-0"
           } transition-all duration-500`}
         >
-          <Header show={show} setShow={setShow}>
+          <Header show={show} setShow={()=>setShow(!show)}>
             <Routes>
               <Route path="/" element={<HotelList />} />
               <Route path="/hotel" element={<AppLayout />}>

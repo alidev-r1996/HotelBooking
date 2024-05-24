@@ -818,7 +818,7 @@
           "rgba(103, 91, 72, 1.00)"
         ],
         "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/065e90eb568e7e4e34733eb9d6f3ec76"
+        "url": "https://images.trvl-media.com/lodging/9000000/8170000/8167800/8167798/072dca6e.jpg?impolicy=resizecrop&rw=500&ra=fit"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/fe92d866-4365-4267-b894-0f75511a6d41.jpg?aki_policy=x_large",
       "host_id": "15625753",
@@ -949,7 +949,7 @@
           "rgba(86, 79, 77, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/089848e03bb2b3b495ad7dc8f7640af4"
+        "url": "https://media.cntraveler.com/photos/5ba29aad414f7c7fed088809/16:9/w_2560,c_limit/hotel-zoo-berlin---high-res-king-suite-hip-hotels-5_38193235006_o.jpghttps://images.trvl-media.com/lodging/9000000/8170000/8167800/8167798/072dca6e.jpg?impolicy=resizecrop&rw=500&ra=fit"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/440cb88b-6a93-48bc-b87f-78675ea40c60.jpg?aki_policy=x_large",
       "host_id": "14694975",
@@ -1341,6 +1341,15 @@
       "countryCode": "IR",
       "host_location": "دهستان زهرای بالا",
       "id": 13
+    },
+    {
+      "latitude": "48.56223676387058",
+      "longitude": "2.3397697449220978",
+      "cityName": "Vert-le-Grand",
+      "country": "France",
+      "countryCode": "FR",
+      "host_location": "Leudeville",
+      "id": 14
     }
   ],
   "users": []

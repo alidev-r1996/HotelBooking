@@ -37,7 +37,7 @@ const AddBookMark = () => {
 
   const AddBookmarkHandler = async (event) => {
     event.preventDefault();
-    dispatch({type: "ADD_BOOKMARK", payload: bookmarkForm})
+    await dispatch({type: "ADD_BOOKMARK", payload: bookmarkForm})
     setBookmarkForm({
       city: "",
       country: "",
