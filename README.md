@@ -1,8 +1,33 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This HotelBooking front-end app created by vite(react.js). uses json-server api and for getting data and save bookmark. this app is fully responsive, and you could bookmark and remote hotel from a bookmark section.
 
-Currently, two official plugins are available:
+### Packages used in project:
+![next.js](https://camo.githubusercontent.com/11561ed7d7e5735041de1effd78226dfc545474e6f468482f91223957fe7234e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465)
+![tailwind.css](https://camo.githubusercontent.com/4035639fa9b5a59d0686daa6e2b37156b8e00f198814e38f3a44398159426bf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3039323734393f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d303642364434266c6162656c436f6c6f723d303030303030)
+![Mongodb](https://camo.githubusercontent.com/4ae569342c64ecd9f0d7e7cbed78fffcca6a0f427e8efb4297c1d357dfb09074/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+![git](https://camo.githubusercontent.com/f38298638f10774e1f0205a1111dff4a7675c0ed8600356f28e8276c2bab8235/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![TypeScript](https://camo.githubusercontent.com/3c675da0ea72fd0d028fdfb84f87b1a959050f970bfc97781b227b3de1fee0aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d3030376163633f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d74797065736372697074266c6f676f436f6c6f723d303037616363)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Getting Started
+
+First, after the setup required packages, run the server:
+
+```bash
+npm run server
+```
+
+after this:
+
+```bash
+npm run dev
+```
+
+the project successfully run...
+
+
+
+## [View Demo](https://todolist-seven-peach.vercel.app/)
+
+
