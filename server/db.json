@@ -32,7 +32,7 @@
           "rgba(54, 54, 64, 1.00)"
         ],
         "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/1333549eac1ff1f91b4443e0dc910c3a"
+        "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/399810041.jpg?k=2dfb12e3e6da0d34cb526c6187c586d69f406440897915a3cfd52cd0322c8bd0&o=&hp=1"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/74942550/415cd752_original.jpg?aki_policy=x_large",
       "host_id": "1195000",
@@ -155,7 +155,7 @@
           "rgba(165, 155, 145, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/1293262ae799ac118c65bc0ef90bc3b8"
+        "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/505624367.jpg?k=80ac6f92723bc47f32887e573759d679dc1e2ead01d2e3fbdd77c4cac3570af9&o=&hp=1"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/eb9e20e1-9c88-43fb-9e0a-e634dfc6e35a.jpg?aki_policy=x_large",
       "host_id": "47820987",
@@ -296,7 +296,7 @@
           "rgba(88, 85, 66, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/5e156e2781e2590c7ae14b30516a919a"
+        "url": "https://cdn.yays.com/wp-content/uploads/2022/01/19105009/yays-amsvo-1bed-2pax-livingarea-1-scaled.jpg"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/10232036/f44402fc_original.jpg?aki_policy=x_large",
       "host_id": "3897376",
@@ -422,7 +422,7 @@
           "rgba(120, 119, 120, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/7139bb0ddfd791f6b68f9e6462afe974"
+        "url": "https://img.nh-hotels.net/zYyn3/vE71Kd/original/NH_Amsterdam_Leidseplein_Room_Standard_View_window.jpg?output-quality=70&resize=555:281&composite-to=center,center|555:281&background-color=white"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/4aad80ac-8a8f-465d-873c-04c951304180.jpg?aki_policy=x_large",
       "host_id": "17633423",
@@ -563,7 +563,7 @@
           "rgba(174, 137, 107, 1.00)"
         ],
         "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/3bfbda897a5a3ef02a761d3edb784dfd"
+        "url": "https://images.trvl-media.com/lodging/6000000/5380000/5370800/5370715/21dc5b5e.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/10553335/64dc1cd3_original.jpg?aki_policy=x_large",
       "host_id": "1446698",
@@ -692,7 +692,7 @@
           "rgba(127, 137, 125, 1.00)"
         ],
         "height": 480,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/6351fdb41e5c30c168b2488e052d032f"
+        "url": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_600,q_auto,w_600//partner-images-stage/62/6b/42dd598c656b5b69da546da414db005c5dde8b29934a82ac6713f85a88e6.jpeg"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/0cfd0182-b3b2-42cf-902f-24cb73a6c82e.jpg?aki_policy=x_large",
       "host_id": "36775877",
@@ -1080,7 +1080,7 @@
           "rgba(100, 85, 71, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/c919a478a118cdd7466dd153867817c7"
+        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max500/497359923.jpg?k=cdaa9b1e0331348d4cf377bde5e0916f1e7008a67dd2af522cb6e834de1f52ef&o="
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/101261468/5be05a66_original.jpg?aki_policy=x_large",
       "host_id": "25049789",
@@ -1219,7 +1219,7 @@
           "rgba(155, 151, 136, 1.00)"
         ],
         "height": 426,
-        "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/2e202e79e908a132d144cc32168fcfc3"
+        "url": "https://aw-d.tripcdn.com/images/0222r12000bh6jpz302C5.jpg"
       },
       "xl_picture_url": null,
       "host_id": "40565986",
@@ -1331,16 +1331,7 @@
       "country": "Spain",
       "countryCode": "ES",
       "host_location": "Salamanca",
-      "id": 12
-    },
-    {
-      "latitude": "35.76716842094826",
-      "longitude": "50.050459021083746",
-      "cityName": "Bu’in Zahra",
-      "country": "Iran (Islamic Republic of)",
-      "countryCode": "IR",
-      "host_location": "دهستان زهرای بالا",
-      "id": 13
+      "id": "12"
     },
     {
       "latitude": "48.56223676387058",
@@ -1349,7 +1340,25 @@
       "country": "France",
       "countryCode": "FR",
       "host_location": "Leudeville",
-      "id": 14
+      "id": "14"
+    },
+    {
+      "id": "51df",
+      "latitude": "48.56451002526623",
+      "longitude": "2.341860867773655",
+      "cityName": "Vert-le-Grand",
+      "country": "France",
+      "countryCode": "FR",
+      "host_location": "Leudeville"
+    },
+    {
+      "id": "2f3e",
+      "latitude": "52.51966798345114",
+      "longitude": "13.373007720394483",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "countryCode": "DE",
+      "host_location": "Tiergarten"
     }
   ],
   "users": []
