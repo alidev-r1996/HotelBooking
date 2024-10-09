@@ -39,7 +39,14 @@ function App() {
                 <Route index element={<SearchResult />} />
                 <Route path=":id" element={<HotelDetails />} />
               </Route>
-              <Route path="/bookmark" element={<BookmarkLayout />}>
+              <Route
+                path="/bookmark"
+                element={
+                  <Suspense fallback={<Loading />}>
+                    <BookmarkLayout />
+                  </Suspense>
+                }
+              >
                 <Route index element={<BookmarkList />} />
                 <Route path="add" element={<AddBookMark />} />
                 <Route path=":id" element={<BookmarkList />} />
