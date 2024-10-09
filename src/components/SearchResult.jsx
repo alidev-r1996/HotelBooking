@@ -5,7 +5,6 @@ const SearchResult = () => {
   const { data, isLoading, currentHotel } = useHotel();
   if (isLoading) return <div>loading...</div>;
 
-
   return (
     <div>
       <h1>search Result: ({data.length})</h1>
@@ -24,7 +23,11 @@ const SearchResult = () => {
                     className="w-20 h-20"
                   />
                   <div className="flex flex-col p-1">
-                    <h1 className={`font-bold text-xs ${hotel.id == currentHotel ? "text-blue-700": ""}`}>
+                    <h1
+                      className={`font-bold text-xs ${
+                        hotel.id == currentHotel ? "text-blue-700" : ""
+                      }`}
+                    >
                       {hotel.smart_location}
                     </h1>
                     <p className="text-[10px] text-slate-400">{hotel.name}</p>

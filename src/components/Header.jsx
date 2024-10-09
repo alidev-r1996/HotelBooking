@@ -3,16 +3,16 @@ import {
   MagnifyingGlassIcon,
   MapPinIcon,
   UserIcon,
-  HomeIcon, BookmarkIcon
+  HomeIcon,
+  BookmarkIcon,
 } from "@heroicons/react/24/solid";
 import SideBarFilter from "./sideBarFilter";
-import {
-  createSearchParams,
-  useNavigate,
-} from "react-router-dom";
+import { createSearchParams, useNavigate } from "react-router-dom";
 import { useState, useTransition } from "react";
 
 const Header = ({ show, setShow, children }) => {
+  const [isPending, startTransition] = useTransition();
+  const navigate = useNavigate();
   const [filter, setFilter] = useState({
     location: "",
     child: 0,
@@ -21,8 +21,6 @@ const Header = ({ show, setShow, children }) => {
     checkIn: "",
     checkOut: "",
   });
-  const navigate = useNavigate();
-  const [isPending, startTransition] = useTransition();
 
   const searchHandler = (event) => {
     event.preventDefault();
@@ -30,11 +28,11 @@ const Header = ({ show, setShow, children }) => {
       return { ...prev, location: event.target.value };
     });
     startTransition(() => {
-        const encodedParams = createSearchParams({
-          destination: event.target.value,
-        });
+      const encodedParams = createSearchParams({
+        destination: event.target.value,
+      });
 
-        navigate({ pathname: "/hotel", search: encodedParams.toString() });
+      navigate({ pathname: "/hotel", search: encodedParams.toString() });
     });
   };
 

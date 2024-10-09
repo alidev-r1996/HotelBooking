@@ -40,6 +40,7 @@ const SideBarFilter = ({ show, filter, setFilter }) => {
     const isNoteEmpty = Object.entries(filter).filter(
       (item) => item[1] != false
     );
+    console.log(isNoteEmpty)
     const encodedParams = createSearchParams({
       room: filter.room,
       destination: filter.location,

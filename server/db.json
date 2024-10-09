@@ -547,8 +547,8 @@
       "access": null,
       "interaction": null,
       "house_rules": null,
-      "thumbnail_url": "https://a0.muscache.com/im/pictures/10553335/64dc1cd3_original.jpg?aki_policy=small",
-      "medium_url": "https://a0.muscache.com/im/pictures/10553335/64dc1cd3_original.jpg?aki_policy=medium",
+      "thumbnail_url": "https://media.architecturaldigest.com/photos/5845c567caee54856138ed69/4:3/w_2016,h_1512,c_limit/london-hotels-05.jpg",
+      "medium_url": "https://media.architecturaldigest.com/photos/5845c567caee54856138ed69/4:3/w_2016,h_1512,c_limit/london-hotels-05.jpg",
       "picture_url": {
         "thumbnail": true,
         "filename": "64dc1cd3_original.jpg",
@@ -563,9 +563,9 @@
           "rgba(174, 137, 107, 1.00)"
         ],
         "height": 480,
-        "url": "https://images.trvl-media.com/lodging/6000000/5380000/5370800/5370715/21dc5b5e.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+        "url": "https://media.architecturaldigest.com/photos/5845c567caee54856138ed69/4:3/w_2016,h_1512,c_limit/london-hotels-05.jpg"
       },
-      "xl_picture_url": "https://a0.muscache.com/im/pictures/10553335/64dc1cd3_original.jpg?aki_policy=x_large",
+      "xl_picture_url": "https://media.architecturaldigest.com/photos/5845c567caee54856138ed69/4:3/w_2016,h_1512,c_limit/london-hotels-05.jpg",
       "host_id": "1446698",
       "host_url": "https://www.airbnb.com/users/show/1446698",
       "host_name": "Eva",
@@ -802,8 +802,8 @@
       "access": null,
       "interaction": null,
       "house_rules": "- You have to feed the cats, Dina and Loes",
-      "thumbnail_url": "https://a0.muscache.com/im/pictures/fe92d866-4365-4267-b894-0f75511a6d41.jpg?aki_policy=small",
-      "medium_url": "https://a0.muscache.com/im/pictures/fe92d866-4365-4267-b894-0f75511a6d41.jpg?aki_policy=medium",
+      "thumbnail_url": "https://static.leonardo-hotels.com/image/executive-room-with-king-bed_35ba711c8e3052877659372a86e4bb3a_2048x1365_desktop_2.jpeg",
+      "medium_url": "https://static.leonardo-hotels.com/image/executive-room-with-king-bed_35ba711c8e3052877659372a86e4bb3a_2048x1365_desktop_2.jpeg",
       "picture_url": {
         "thumbnail": true,
         "filename": "fe92d866-4365-4267-b894-0f75511a6d41.jpg",
@@ -818,9 +818,9 @@
           "rgba(103, 91, 72, 1.00)"
         ],
         "height": 480,
-        "url": "https://images.trvl-media.com/lodging/9000000/8170000/8167800/8167798/072dca6e.jpg?impolicy=resizecrop&rw=500&ra=fit"
+        "url": "https://static.leonardo-hotels.com/image/executive-room-with-king-bed_35ba711c8e3052877659372a86e4bb3a_2048x1365_desktop_2.jpeg"
       },
-      "xl_picture_url": "https://a0.muscache.com/im/pictures/fe92d866-4365-4267-b894-0f75511a6d41.jpg?aki_policy=x_large",
+      "xl_picture_url": "https://static.leonardo-hotels.com/image/executive-room-with-king-bed_35ba711c8e3052877659372a86e4bb3a_2048x1365_desktop_2.jpeg",
       "host_id": "15625753",
       "host_url": "https://www.airbnb.com/users/show/15625753",
       "host_name": "Pollo",
@@ -1359,6 +1359,24 @@
       "country": "Germany",
       "countryCode": "DE",
       "host_location": "Tiergarten"
+    },
+    {
+      "id": "6bdc",
+      "latitude": "52.05249047600099",
+      "longitude": "-0.3632279610656642",
+      "cityName": "Southill",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "countryCode": "GB",
+      "host_location": "Southill"
+    },
+    {
+      "id": "55ef",
+      "latitude": "51.89090148463458",
+      "longitude": "-0.47882641135212467",
+      "cityName": "Luton",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "countryCode": "GB",
+      "host_location": "Luton"
     }
   ],
   "users": []
