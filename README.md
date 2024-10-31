@@ -28,6 +28,5 @@ the project successfully run...
 
 
 
-## [View Demo](https://todolist-seven-peach.vercel.app/)
 
 
